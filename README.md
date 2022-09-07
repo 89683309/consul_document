@@ -2,7 +2,6 @@
 一边学习一边翻译,希望自己能坚持下去
 基于1.13x
 ## 开始使用
-Installing Consul is simple. There are three approaches to installing Consul:
 Consul的安装非常简单.有三种方法可以安装consul:
 * [通过二进制文件](https://www.consul.io/docs/install#precompiled-binaries)
 * [从源码编译安装](https://www.consul.io/docs/install#compiling-from-source)
@@ -24,5 +23,5 @@ Precompiled Binaries
 
 可以从github上克隆代码
 
-\` $ git clone https://github.com/hashicorp/consul.git
-\`$ cd consul
+`$ git clone https://github.com/hashicorp/consul.git`
+`$ cd consul`
