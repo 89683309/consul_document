@@ -23,7 +23,7 @@ Consul的安装非常简单.有三种方法可以安装consul:
 可以从github上克隆代码
 
 `
-$ git clone https://github.com/hashicorp/consul.git
+$ git clone https://github.com/hashicorp/consul.git \n
 $ cd consul
 `
 
