@@ -23,8 +23,7 @@ Consul的安装非常简单.有三种方法可以安装consul:
 可以从github上克隆代码
 
 `
-$ git clone https://github.com/hashicorp/consul.git \
-
+$ git clone https://github.com/hashicorp/consul.git \\
 $ cd consul
 `
 
@@ -40,7 +39,7 @@ GOOS:目标系统类型,可选的有效值包含:linux, darwin, windows, solaris
 GOARCH:目标系统的架构,可选的有效值包含:386, amd64, arm, arm64
 
 `
-$ export GOOS=linux GOARCH=amd64 \
+$ export GOOS=linux GOARCH=amd64 \\
 $ make dev
 `
 ### 浏览器兼容性
